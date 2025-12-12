@@ -1,0 +1,8 @@
+config_version=5
+
+[application]
+config/name="Animal Rescue World"
+run/main_scene="res://scenes/main_menu.tscn"
+
+[autoload]
+GameManager="*res://scripts/game_manager.gd"
